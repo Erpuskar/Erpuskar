@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Puskar Kumar
 
-<!--
-**Erpuskar/Erpuskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE (Data Science) Student
 
-Here are some ideas to get you started:
+- 🔭 Currently working on Data Science & Web Development
+- 🌱 Learning DSA, C++, Python & Machine Learning
+- 💻 500+ Coding Problems
+- 🚀 Interested in Data Science and AI
+- 📊 Building real-world projects
+- 📫 Connect with me on LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+C++ | Python | JavaScript | React | SQL | Git | GitHub
+
+## 🚀 Featured Projects
+
+- NEXinfra
+- ABTalks
+- Examnex
+- Data Science Projects
+
+## 📈 Coding Profiles
+
+- LeetCode
+- CodeChef
+- Kaggle
