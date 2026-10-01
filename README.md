@@ -27,25 +27,24 @@
 - Examnex
 - Data Science Projects
 
-<h2>🔥 Coding Profiles</h2>
 
-<p align="center">
+## 🔗 Coding Profiles
 
-<a href="https://leetcode.com/u/25_CSDS_0242/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
+<p>
+ <a href="https://leetcode.com/u/25_CSDS_0242/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="25"/> LeetCode
+  </a>
+</p>
 
-<a href="https://www.codechef.com/users/csds_25_0242">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
-</a>
+<p>
+    <a href="https://www.codechef.com/users/csds_25_0242">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="25"/> CodeChef
+  </a>
+</p>
 
-<a href="YOUR_CODEFORCES_PROFILE">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
-</a>
-
-<a href="YOUR_GFG_PROFILE">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-</a>
-
+<p>
+    <a href="https://www.kaggle.com/puskarkumar">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="25"/> Kaggle
+  </a>
 </p>
 
