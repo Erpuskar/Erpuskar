@@ -28,23 +28,27 @@
 - Data Science Projects
 
 
-## 🔗 Coding Profiles
+
+<h2>🔗 Coding Profiles<h2>
 
 <p>
- <a href="https://leetcode.com/u/25_CSDS_0242/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="25"/> LeetCode
+  <a href="https://leetcode.com/u/25_CSDS_0242/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
-
 <p>
-    <a href="https://www.codechef.com/users/csds_25_0242">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="25"/> CodeChef
+  <a href="https://www.codechef.com/users/csds_25_0242">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
-
 <p>
-    <a href="https://www.kaggle.com/puskarkumar">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="25"/> Kaggle
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
 </p>
-
+<p>
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+ 
